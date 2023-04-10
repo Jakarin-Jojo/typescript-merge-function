@@ -1,0 +1,11 @@
+{
+  "name": "typescript-merge-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jakarin-Jojo/typescript-merge-function.git",
+  "author": "Jakarin-Jojo <jakarin.chujan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
